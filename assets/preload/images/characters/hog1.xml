@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hog.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hog down0000" x="0" y="0" width="590" height="582" frameX="0" frameY="-3" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0001" x="590" y="0" width="588" height="582" frameX="-3" frameY="-3" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0002" x="1178" y="0" width="584" height="583" frameX="-7" frameY="0" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0003" x="1762" y="0" width="584" height="583" frameX="-7" frameY="0" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0004" x="2346" y="0" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0005" x="2928" y="0" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0006" x="3510" y="0" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0007" x="0" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0008" x="582" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0009" x="582" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0010" x="582" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0011" x="582" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0012" x="582" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog down0013" x="582" y="583" width="582" height="578" frameX="-8" frameY="-2" frameWidth="591" frameHeight="585"/>
+	<SubTexture name="hog idle0000" x="1164" y="583" width="493" height="580" frameX="-2" frameY="-7" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0001" x="1657" y="583" width="493" height="580" frameX="-2" frameY="-7" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0002" x="2150" y="583" width="491" height="583" frameX="-3" frameY="-4" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0003" x="2641" y="583" width="491" height="583" frameX="-3" frameY="-4" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0004" x="3132" y="583" width="492" height="585" frameX="-2" frameY="-2" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0005" x="0" y="1168" width="492" height="585" frameX="-2" frameY="-2" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0006" x="492" y="1168" width="493" height="586" frameX="-1" frameY="-1" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0007" x="985" y="1168" width="493" height="586" frameX="-1" frameY="-1" frameWidth="495" frameHeight="587"/>
+	<SubTexture name="hog idle0008" x="1478" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0009" x="1973" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0010" x="2468" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0011" x="2963" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0012" x="2963" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0013" x="2963" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0014" x="2963" y="1168" width="495" height="587"/>
+	<SubTexture name="hog idle0015" x="2963" y="1168" width="495" height="587"/>
+	<SubTexture name="hog left0000" x="3458" y="1168" width="497" height="574" frameX="0" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0001" x="0" y="1755" width="497" height="574" frameX="0" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0002" x="497" y="1755" width="494" height="574" frameX="-4" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0003" x="991" y="1755" width="494" height="574" frameX="-4" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0004" x="1485" y="1755" width="492" height="574" frameX="-7" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0005" x="1977" y="1755" width="492" height="574" frameX="-7" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0006" x="2469" y="1755" width="489" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0007" x="2958" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0008" x="3448" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0009" x="3448" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0010" x="3448" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0011" x="3448" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0012" x="3448" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog left0013" x="3448" y="1755" width="490" height="574" frameX="-10" frameY="0" frameWidth="500" frameHeight="574"/>
+	<SubTexture name="hog right0000" x="0" y="2329" width="621" height="574"/>
+	<SubTexture name="hog right0001" x="0" y="2329" width="621" height="574"/>
+	<SubTexture name="hog right0002" x="621" y="2329" width="619" height="574" frameX="0" frameY="0" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0003" x="621" y="2329" width="619" height="574" frameX="0" frameY="0" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0004" x="1240" y="2329" width="616" height="574" frameX="0" frameY="0" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0005" x="1240" y="2329" width="616" height="574" frameX="0" frameY="0" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0006" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0007" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0008" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0009" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0010" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0011" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0012" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog right0013" x="1856" y="2329" width="615" height="573" frameX="0" frameY="-1" frameWidth="621" frameHeight="574"/>
+	<SubTexture name="hog up0000" x="2471" y="2329" width="525" height="643" frameX="0" frameY="0" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0001" x="2996" y="2329" width="525" height="643" frameX="0" frameY="0" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0002" x="3521" y="2329" width="523" height="637" frameX="-3" frameY="-6" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0003" x="0" y="2972" width="523" height="637" frameX="-3" frameY="-6" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0004" x="523" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0005" x="1045" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0006" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0007" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0008" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0009" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0010" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0011" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0012" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+	<SubTexture name="hog up0013" x="1567" y="2972" width="522" height="634" frameX="-4" frameY="-9" frameWidth="526" frameHeight="643"/>
+</TextureAtlas>

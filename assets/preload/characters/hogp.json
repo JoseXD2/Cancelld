@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hogp idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hogp left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hogp down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hogp up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hogp right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hogp",
+	"position": [
+		80,
+		340
+	],
+	"healthicon": "hogp",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		0,
+		144
+	],
+	"camera_position": [
+		-180,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
